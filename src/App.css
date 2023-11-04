@@ -6,3 +6,5 @@
   display: flex;
   background-color: rgb(246, 246, 246);
 }
+.blogSearch{display: flex; align-items: center;}
+.blogSearch :hover{cursor: pointer;}

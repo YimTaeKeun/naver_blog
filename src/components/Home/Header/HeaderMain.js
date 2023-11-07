@@ -1,5 +1,5 @@
-import blog_logo from '../../imgSrc/blog_logo.jpg';
-import searchBtn from '../../imgSrc/searchBtn.jpg';
+import blog_logo from '../../../imgSrc/blog_logo.jpg';
+import searchBtn from '../../../imgSrc/searchBtn.jpg';
 const HeaderMain = () => {
     return <div className="HeaderMain">
         <div className="blogSearch">

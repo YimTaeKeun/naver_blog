@@ -1,6 +1,11 @@
+import BodyNav from "./BodyNav";
+import PreviewWithPhoto from "./PreviewWithPhoto";
+import BlogPreview from "./BlogPreview";
 const BodyMain = () => {
     return <div className="BodyMain">
-        This area is Body
+        <BodyNav />
+        <PreviewWithPhoto />
+        <BlogPreview />
     </div>
 }
 export default BodyMain;
